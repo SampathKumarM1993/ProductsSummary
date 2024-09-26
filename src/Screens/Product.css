@@ -1,0 +1,8 @@
+.rowSize .ant-table-cell {
+    padding: 0rem !important; 
+    text-indent: 0.9rem;
+}
+
+.screenHeader {
+    margin-top: 0.8rem !important;
+}
